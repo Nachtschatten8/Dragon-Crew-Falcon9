@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="409.60001"
+   height="272.95999"
+   viewBox="0 0 409.60001 272.95999"
+   sodipodi:docname="SpaceX_Crew_Dragon nasa ISS.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/abarth/Doc/Adrian/Programmieren/Raketen/SpaceX_Crew_Dragon nasa ISS.png"
+   inkscape:export-xdpi="199"
+   inkscape:export-ydpi="199">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1456"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00f6fc;stroke-width:1pt;stroke-opacity:1;fill:#00f6fc;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1454" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path840"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#00f0ee;stroke-width:1pt;stroke-opacity:1;fill:#00f0ee;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1124"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1122"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#00f6fc;stroke-width:1pt;stroke-opacity:1;fill:#00f6fc;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path843"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#00f6fc;stroke-width:1pt;stroke-opacity:1;fill:#00f6fc;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.4454456"
+     inkscape:cx="9.1301453"
+     inkscape:cy="129.23149"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="/home/abarth/Doc/Adrian/Programmieren/Raketen/SpaceX_Crew_Dragon_docking_with_the_International_Space_Station (Kopie).jpg"
+     xlink:href="SpaceX_Crew_Dragon_docking_with_the_International_Space_Station (Kopie).jpg"
+     width="409.60001"
+     height="272.95999"
+     preserveAspectRatio="none"
+     id="image10"
+     x="0.40892345"
+     y="0.13385153" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;"
+     x="-106.32009"
+     y="47.643181"
+     id="text14"><tspan
+       sodipodi:role="line"
+       id="tspan12"
+       x="-106.32009"
+       y="83.033806" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.33333333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
+     x="-105.50225"
+     y="44.780716"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan16"
+       x="-105.50225"
+       y="80.171341" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none"
+     x="11.449858"
+     y="42.327175"
+     id="text22"><tspan
+       sodipodi:role="line"
+       id="tspan20"
+       x="11.449858"
+       y="42.327175">Die Dragon Crew Kapsel die </tspan><tspan
+       sodipodi:role="line"
+       x="11.449858"
+       y="58.993843"
+       id="tspan24">Menschen bringen soll</tspan></text>
+  <path
+     style="fill:none;stroke:#00f0ee;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1124)"
+     d="m 34.758492,64.40904 38.847726,42.52804"
+     id="path30"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;"
+     x="-99.368393"
+     y="121.65832"
+     id="text1436"><tspan
+       sodipodi:role="line"
+       id="tspan1434"
+       x="-99.368393"
+       y="133.45518" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00fafb;fill-opacity:1;stroke:none"
+     x="233.90421"
+     y="39.055786"
+     id="text1440"><tspan
+       sodipodi:role="line"
+       id="tspan1438"
+       x="233.90421"
+       y="39.055786">Versorgungskapsel</tspan></text>
+  <path
+     style="fill:none;stroke:#00f6fc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1456)"
+     d="M 257.62176,51.732413 C 294.42487,100.3943 300.1498,107.75493 300.1498,107.75493"
+     id="path1446"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+</svg>
